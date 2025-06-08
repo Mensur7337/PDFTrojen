@@ -1,6 +1,6 @@
 # PDF Projesi Hakkında
 
-Bu depo, **[proje adı]** için oluşturulmuş PDF dosyalarını içerir.
+Bu depo, Kriptoloji dersi için oluşturulmuş zararlı PDF dosyasını içerir.
 
 ## 📌 İçerik
 - `example.pdf`: Örnek bir PDF dosyası.
@@ -25,7 +25,6 @@ git push origin main
 
 # 📄 PDF Analiz Projesi
 
-![PDF Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1200px-PDF_file_icon.svg.png)
 
 ## 🔍 Proje Amacı
 Bu depo, **PDF güvenlik testleri** için örnek dosyalar içerir.
