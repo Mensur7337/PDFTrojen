@@ -10,19 +10,6 @@ Bu depo, Kriptoloji dersi için oluşturulmuş zararlı PDF dosyasını içerir.
 Bu PDF'ler **sadece eğitim amaçlıdır**. Kötü niyetli kullanım yasaktır.
 
 
-# 1. README.md oluşturun
-echo "# PDF Depomu" > README.md
-
-# 2. PDF ve README'yi ekleyin
-git add README.md example.pdf
-
-# 3. Commit yapın
-git commit -m "PDF ve README eklendi"
-
-# 4. GitHub'a yükleyin
-git push origin main
-
-
 # 📄 PDF Analiz Projesi
 
 
